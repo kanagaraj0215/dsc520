@@ -3,9 +3,9 @@ title: "ASSIGNMENT 4"
 author: "Kanagaraj Ramasamy"
 date: '2022-10-08'
 output:
+  word_document: default
   html_document: default
   pdf_document: default
-  word_document: default
 bibliography: bibliography.bib
 ---
 
